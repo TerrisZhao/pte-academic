@@ -78,3 +78,10 @@
 78. It is important to plan your study time carefully.
 79. We were able to contact a number of research subjects.
 80. You do not need specialist knowledge to enjoy this book.
+81. Many university lectures can now be viewed on the internet.
+82. There is an accounting assignment for finance students.
+83. The deadline for this assignment is next Wednesday.
+84. Many businesses near the campus offer student discounts.
+85. The museum is closed on the third Monday of every month.
+86. Houses were built for workers near the factories.
+87. There was a prize for the best student presentation.
