@@ -63,5 +63,18 @@
 63. Research shows that exercising makes us feel better.
 64. The faculty staff are very approachable, friendly and extremely helpful.
 65. Practical experience is a vital part of legal training.
-
-
+66. Most of the lectures begin promptly, so do not be late.
+67. Farmers need to adapt to the changes in climate.
+68. You must be able to work in a team.
+69. A group meeting will be held tomorrow in the library conference room.
+70. We can't consider any increase in our price at this stage.
+71. Designers need to keep up with social trends.
+72. The timetable for the naxt term will be available next week.
+73. Stories often contain messages in our life.
+74. You must be able to work in a team.
+75. You can use your laptops in the lecture.
+76. Computers used to be larger than they are now.
+77. Our faculty includes five libraries in the university.
+78. It is important to plan your study time carefully.
+79. We were able to contact a number of research subjects.
+80. You do not need specialist knowledge to enjoy this book.
