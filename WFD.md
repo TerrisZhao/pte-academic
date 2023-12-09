@@ -85,3 +85,11 @@
 85. The museum is closed on the third Monday of every month.
 86. Houses were built for workers near the factories.
 87. There was a prize for the best student presentation.
+88. All students are expected to attend ten lab sessions per semester.
+89. You are advised to use multiple research methods for this project.
+90. Students requiring an extension should apply sooner rather than later.
+91. The city's founders created a set of rules that became law.
+92. The essay should be easy to complete once the research is finished.
+93. The nation achieved prosperity by opening its ports for trade.
+94. The university should have invested in new technology to support learning.
+95. The professor took one year off to work on her book.
