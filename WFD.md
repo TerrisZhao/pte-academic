@@ -93,3 +93,7 @@
 93. The nation achieved prosperity by opening its ports for trade.
 94. The university should have invested in new technology to support learning.
 95. The professor took one year off to work on her book.
+96. Sea levels are expected to rise during the next century.
+97. Rising sea temperatures are a sign of climate change.
+98. The student shop sells a range of stationery.
+99. You are required to attend lectures and write weekly reports.
