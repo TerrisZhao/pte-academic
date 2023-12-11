@@ -97,3 +97,6 @@
 97. Rising sea temperatures are a sign of climate change.
 98. The student shop sells a range of stationery.
 99. You are required to attend lectures and write weekly reports.
+100. Clinical placements in nursing prepare students for professional practice.
+101. Convincing evidence to support this theory is hard to obtain.
+102. 
