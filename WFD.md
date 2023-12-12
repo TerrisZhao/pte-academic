@@ -99,4 +99,7 @@
 99. You are required to attend lectures and write weekly reports.
 100. Clinical placements in nursing prepare students for professional practice.
 101. Convincing evidence to support this theory is hard to obtain.
-102. 
+102. A good academic paper should present a clear argument.
+103. In this language course, we focus on both fluency and accuracy.
+104. Students intending to go to the conference must register now.
+105. The history department is very active in research.
