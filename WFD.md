@@ -103,3 +103,10 @@
 103. In this language course, we focus on both fluency and accuracy.
 104. Students intending to go to the conference must register now.
 105. The history department is very active in research.
+106. Peer group pressure has a siginificant effect on young people.
+107. The key difference between courses is the kind of assessment.
+108. The ways in which people communicate are constantly changing.
+109. There is a welcome party for all new students each term.
+110. They developed a unique approach to training their employees.
+111. Students are encouraged to monitor their own attendance.
+112. The lecture tomorrow will discuss the educational policy of the United States.
