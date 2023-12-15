@@ -110,3 +110,12 @@
 110. They developed a unique approach to training their employees.
 111. Students are encouraged to monitor their own attendance.
 112. The lecture tomorrow will discuss the educational policy of the United States.
+113. The department is organizing a trip to London in July.
+114. Food has become a political issue in the world.
+115. Speed is defined as how quickly an object or a person moves.
+116. Animal and plant cells have a number of structures in common.
+117. Renovation works are currently undertaken throughout the whole building.
+118. The bus for London will leave ten minutes later than planned.
+119. Blue whales are the largest mammals that have ever lived.
+120. The opening hours of the library are reduced during summer.
+121. A laptop computer has been found in the biology lab.
