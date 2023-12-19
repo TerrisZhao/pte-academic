@@ -119,3 +119,13 @@
 119. Blue whales are the largest mammals that have ever lived.
 120. The opening hours of the library are reduced during summer.
 121. A laptop computer has been found in the biology lab.
+122. A bar chart provide a useful means of data comparison.
+123. The campus tour will help you to ge familiar with the teaching facilities.
+124. The ability to work with fellow students cannot be stressed enough.
+125. This problem is complex and difficult to explain.
+126. Protective clothing must always be worn in the laboratory.
+127. International exchange formed the important part of our study program.
+128. Photography can be very useful to geographical research.
+129. He was regarded as the foremost economist at his time.
+130. Your idea are discussed and debated in seminars and totorials.
+131. Students should leave their bags on the table by the door.
