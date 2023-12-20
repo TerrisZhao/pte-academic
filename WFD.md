@@ -129,3 +129,5 @@
 129. He was regarded as the foremost economist at his time.
 130. Your idea are discussed and debated in seminars and totorials.
 131. Students should leave their bags on the table by the door.
+132. It is important to make clear notes when you are reading.
+133. Some people believe that education should be free to everyone.
