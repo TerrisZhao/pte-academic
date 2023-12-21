@@ -131,3 +131,14 @@
 131. Students should leave their bags on the table by the door.
 132. It is important to make clear notes when you are reading.
 133. Some people believe that education should be free to everyone.
+134. There many branch of medical studies.
+135. The university theater group will be performing in the concert hall.
+136. Resources and materials are on hold at the library reference desk.
+137. Rivers provide habitats for fish and other aquatic species.
+138. There are some doubts about whether these events actually occurred.
+139. Education and training provide important skills for the labor force.
+140. Continuing students will be sent the necessary application forms.
+141. You must hand in your essays by midday on Friday.
+142. The notification will not be received until the following week.
+143. New developments in manufacturing are constantly changing the way we live.
+144. A visit to the designed museum is of great value.
