@@ -142,3 +142,23 @@
 142. The notification will not be received until the following week.
 143. New developments in manufacturing are constantly changing the way we live.
 144. A visit to the designed museum is of great value.
+145. Before you choose your university courses, you should consider your future career.
+146. Tutors should set a clear goal at the start of the class.
+147. You must answer security questions when you reset your password.
+148. A series of lectures showed economics have been recorded.
+149. Request for late applications will not be accepted under any circumstances.
+150. Our study program equips students with essential skills for university.
+151. An effective business manager is always open to new ideas.
+152. He wrote poetry and plays as well as scientific papers.
+153. The north campus car park could be closed on Sunday.
+154. The poster of this play is hung in the largest lecture theater.
+155. Technology is changing the way that media is used and studied.
+156. You will be tested by continuous assessments and examinations.
+157. The other book isn't thorough, but it's more insightful.
+158. You should have awareness of how the business operates globally.
+159. New media has transcended traditional national boundaries.
+160. One student representative will be selected from each class.
+161. Accountancy students have to hand in their dissertations this week.
+162. The marketing budget has been doubled since the beginning of the year.
+163. Lectures are the oldest and the most formal teaching method at university.
+
