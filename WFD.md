@@ -161,4 +161,26 @@
 161. Accountancy students have to hand in their dissertations this week.
 162. The marketing budget has been doubled since the beginning of the year.
 163. Lectures are the oldest and the most formal teaching method at university.
+164. It is a debate about the value of knowledge.
+165. Calculators allow us to add numbers without making mistakes.
+166. The government department was doing some crucial work on climate change.
+167. Muscles bring parts of the body close together.
+168. VIsual aid can be really helpful when you are revising.
+169. The library will be closed for staff training tomorrow morning.
+170. Population has a sharp rise in the recent twenty years.
+171. Many different conferences offer opportunities for volunteer work.
+172. The best student has an opportunity to require a scholarship.
+173. The subject was complex and diffucult to explain.
+174. The necessary library has most of the necessary books.
+175. You need to put these books on the table over there.
+176. More graduate training is needed agter university study has finished.
+177. New materials and techniques are changing the style of modern architecture.
+178. The department works closely with business communities.
+179. The extent of advertising to children is very much open to debate.
+180. The study center in the library has all the latest technologies.
+181. The college operates a system of continuous assessments.
+182. Students who study overseas can significantly improve their work chances.
+183. Radio is a popular form of entertainment throughout the world.
+184. The very basic definition of computing would be counting and calculating.
+185. The study of anthropology can help us learn about society today.
 
