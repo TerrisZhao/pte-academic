@@ -183,4 +183,17 @@
 183. Radio is a popular form of entertainment throughout the world.
 184. The very basic definition of computing would be counting and calculating.
 185. The study of anthropology can help us learn about society today.
+186. Years of training are required to become a medical specialist.
+187. We should never underestimate the power of creative design.
+188. Please return the reference book to the correct position on the shelf.
+189. The digital camera has some advantages over traditional film.
+190. There is no fixed career path for a qualified journalist.
+191. The economic predictions turned out to be incorrect.
+192. The curriculum should be adjusted to the current development.
+193. Graduates from this course typically pursue careers in financial sector.
+194. A series of the observations were carried out in the classroom.
+195. The campus library will be closed during the winter break.
+196. Physical strength can be enhanced through regular training.
+197. Plants are able to continue growing throughout their lives.
+198. Most of these features were part of the previous system.
 
