@@ -196,4 +196,5 @@
 196. Physical strength can be enhanced through regular training.
 197. Plants are able to continue growing throughout their lives.
 198. Most of these features were part of the previous system.
+199. Advanced technology created growth in the economy.
 
