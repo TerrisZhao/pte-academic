@@ -205,4 +205,7 @@
 205. Our view is that educational reforms have been inadequately implemented.
 206. Americans have typically defined the process of plant growth in quantitative terms.
 207. Please note that the submission deadlines are only negotiable in exceptional circumstances.
+208. Certain scientific principles must be learned berbally or by logical deduction.
+209. The author's early works were less philosophical and more experimental.
+210. The earth's atmosphere is primarily composed of oxygen and nitrogen gases.
 
