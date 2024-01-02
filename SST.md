@@ -1,0 +1,1 @@
+This lecture mainly talks about ... In the lecture, the speaker first mentions about ... Then more, the speaker also implies that ... In conclusion, the lecture is very good and informative.
